@@ -1,17 +1,15 @@
 # 👋 Hey, I'm Saeed Sanad
 
-### Frontend Developer • React • Next.js • TypeScript
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+clean+%26+scalable+web+experiences;Turning+ideas+into+interfaces+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+experiences;Turning+ideas+into+interfaces+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
   <a href="https://github.com/SaeedSanadd">
-    <img src="https://img.shields.io/github/followers/SaeedSanadd?label=Followers&style=for-the-badge&logo=github&color=181717" />
+    <img src="https://img.shields.io/badge/GitHub-SaeedSanadd-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/SaeedSanadd?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-238636?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Repositories-Explore-238636?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -19,40 +17,58 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Frontend Developer** passionate about creating modern, scalable, and user-focused web applications.
+I'm a **Frontend Developer** who enjoys turning ideas, designs, and complex requirements into clean, scalable, and production-ready web experiences.
 
-I enjoy turning designs and ideas into **clean, responsive, production-ready interfaces** while paying close attention to performance, accessibility, architecture, and user experience.
+I care about:
+
+* 🎨 Pixel-perfect UI implementation
+* ⚡ Performance
+* 🧩 Reusable architecture
+* 📱 Responsive experiences
+* 🔐 Authentication & role-based systems
+* 🧠 Maintainable code
+* ✨ Great user experience
 
 ```ts
 const saeed = {
   role: "Frontend Developer",
-  focus: ["React", "Next.js", "TypeScript"],
-  mindset: "Build. Learn. Improve. Repeat.",
-  currentlyLearning: "Advanced Frontend Architecture",
-  goal: "Build products people enjoy using."
+  stack: ["React", "Next.js", "TypeScript"],
+  focus: "Modern Web Applications",
+  mindset: "Build • Learn • Improve • Repeat"
 };
 ```
 
 ---
 
-## ⚡ GitHub Overview
+# 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaeedSanadd&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedSanadd&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-</p>
 
-> 📊 These statistics are generated dynamically from GitHub activity.
+<img src="https://github-readme-stats.vercel.app/api?username=SaeedSanadd&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedSanadd&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180"/>
+
+</p>
 
 ---
 
-## 📈 My GitHub Activity
+## ⚡ GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaeedSanadd&hide=contribs&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews" />
+
+<img src="https://img.shields.io/github/repo-size/SaeedSanadd/SaeedSanadd?style=for-the-badge&label=PROFILE%20REPO&logo=github" />
+
+<img src="https://img.shields.io/github/followers/SaeedSanadd?style=for-the-badge&label=FOLLOWERS&logo=github" />
+
+<img src="https://komarev.com/ghpvc/?username=SaeedSanadd&style=for-the-badge&label=PROFILE%20VIEWS" />
+
 </p>
 
-### 🔥 Contribution Streak
+> 🚀 Repository count, commits, pull requests, issues, stars and contribution activity are tracked dynamically through GitHub-powered statistics.
+
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SaeedSanadd&theme=transparent&hide_border=true" />
@@ -60,7 +76,15 @@ const saeed = {
 
 ---
 
-## 💻 Tech Stack
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaeedSanadd&theme=github-compact&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+# 🛠️ Tech Stack
 
 ### Frontend
 
@@ -74,7 +98,7 @@ const saeed = {
   <img src="https://skillicons.dev/icons?i=nodejs,supabase,graphql" />
 </p>
 
-### Tools
+### Tools & Workflow
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,npm" />
@@ -82,39 +106,40 @@ const saeed = {
 
 ---
 
-## 🚀 What I Like Building
+# 🚀 What I Build
 
 ```text
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  🎨 Beautiful Interfaces                        │
-│  ⚡ High Performance Applications                │
-│  🧩 Reusable Component Systems                  │
-│  📱 Responsive Experiences                       │
-│  🔐 Authentication & Role-Based Systems         │
-│  🔌 API & GraphQL Integrations                   │
-│  🏗️ Scalable Frontend Architecture              │
-│  ✨ Smooth Interactions & Micro-animations       │
-│                                                 │
-└─────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  🎨 Modern User Interfaces                                 │
+│  ⚛️  React & Next.js Applications                          │
+│  📱 Responsive Web Experiences                             │
+│  🧩 Reusable Component Systems                             │
+│  ⚡ Performance-focused Applications                       │
+│  🔐 Authentication & Authorization                         │
+│  🔌 API & GraphQL Integrations                             │
+│  🏗️ Scalable Frontend Architecture                        │
+│  ✨ Interactive UI & Micro-interactions                    │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🧠 Currently Exploring
+# 🧠 Currently Learning & Improving
 
 * ⚛️ Advanced React patterns
 * ▲ Next.js architecture
-* 🧩 Design systems & reusable components
-* ⚡ Web performance optimization
-* 🏗️ Scalable frontend architecture
-* 🔐 Authentication & authorization
-* 🐳 Docker & deployment workflows
-* 🎨 Better UI/UX implementation
+* 🏗️ Frontend architecture
+* 🧩 Design systems
+* ⚡ Web performance
+* 🔐 Secure authentication
+* 🐳 Docker & deployment
+* 🎨 UI/UX engineering
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaeedSanadd&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" />
@@ -122,47 +147,54 @@ const saeed = {
 
 ---
 
-## 📊 Contribution Graph
+# 💡 My Development Philosophy
+
+> **Good code works. Great code is easy to understand, maintain, and improve.**
+
+I believe great frontend development sits at the intersection of:
+
+**Engineering × Design × Performance × User Experience**
+
+---
+
+# 📌 Featured Work
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaeedSanadd&hide_border=true&theme=github-compact" />
+
+<a href="https://github.com/SaeedSanadd?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaeedSanadd&repo=YOUR_REPOSITORY_1&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/SaeedSanadd?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaeedSanadd&repo=YOUR_REPOSITORY_2&theme=transparent&hide_border=true" />
+</a>
+
 </p>
 
 ---
 
-## 🎯 Developer Philosophy
-
-> **"Good code works. Great code is easy to understand, maintain, and improve."**
-
-I believe frontend development isn't just about writing components.
-
-It's about creating experiences that are:
-
-**Fast · Accessible · Maintainable · Scalable · Beautiful**
-
----
-
-## 🌐 Connect With Me
+# 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/SaeedSanadd">
-    <img src="https://img.shields.io/badge/GitHub-SaeedSanadd-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+
+<a href="https://github.com/SaeedSanadd">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaeedSanadd&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
-<p align="center">
-  <b>⚡ Build with purpose. Ship with confidence.</b>
-</p>
+### ⚡ Build with purpose. Design with intention. Ship with confidence.
 
-<p align="center">
-  <sub>Thanks for visiting my profile 👋</sub>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SaeedSanadd&label=PROFILE+VIEWS&color=58A6FF&style=flat" />
+
 </p>
